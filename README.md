@@ -4,8 +4,14 @@
 <br>
 The<a href="https://github.com/leofelip/Finance/blob/main/deSouza%2C%20Leonardo%20-%20Efficient%20Frontier.ipynb"> Efficient Frontier</a> notebook goes 
 over the code on how to build the efficient frontier, find the minimum variance and the tangent portfolio. The notebook also covers the Brinson–Hood–Beebower fo
-performance attribution.
+performance attribution. The notebook covers the following topics:
 <br>
+<ol>
+  <li>Modern Portfolio Theory (Markowitz Optimization)</li>
+  <li>Returns Attribution (Brinson–Hood–Beebower (BHB) Model)</li>
+  <li>Factor Attribution (Fama-French Factors)</li>
+  <li>Value at Risk (VaR and CVaR)</li>
+</ol>
 <br>
 The<a href="https://github.com/leofelip/Finance/blob/main/deSouza%2C%20Leonardo%20-%20Portfolio%20Performance.ipynb"> Performance Metrics</a> notebook goes over the following performance metrics:
 <br>
