@@ -28,7 +28,7 @@
   </ul>
 </ol>
 <br>
-<a href="https://github.com/leofelip/Finance/blob/main/deSouza%2C%20Leonardo%20-%20Portfolio%20Performance.ipynb"> Performance Metrics</a>:
+<a href="https://github.com/leofelip/Finance/blob/main/deSouza%2C%20Leonardo%20-%20Portfolio%20Performance%20Metrics.ipynb"> Performance Metrics</a>:
 <br>
 <ol>
   <li>Rolling Annualized Return</li>
